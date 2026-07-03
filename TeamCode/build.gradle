@@ -41,7 +41,7 @@ dependencies {
     implementation "org.solverslib:photon:0.3.4"
 
     // Pedropathing
-    implementation "com.pedropathing:ftc:2.1.0"
+    implementation "com.pedropathing:ftc:2.1.2"
     implementation "com.pedropathing:telemetry:1.0.0"
 
     // Panels Dashboard
